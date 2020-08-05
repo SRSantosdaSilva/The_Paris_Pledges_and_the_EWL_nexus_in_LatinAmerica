@@ -14,4 +14,4 @@ The Supporting_Excel_sheets directory contains the following excel sheet: Figure
 Requirements: IDL and Python. The IDL scripts have been used in IDL 8.0. Python scripts have only been tested on Python 2.7. Python required libraries: Numpy and Matplotlib.
 
 Citation:
-Santos Da Silva, S. R., Miralles-Wilhelm, F., Muñoz-Castillo, R., Clarke, L., Braun, C. J., Delgado, A., … McJeon, H. C. (2018).The Paris Pledges and the Energy-Water-Land Nexus in Latin America: Exploring interlinkages of Greenhouse Gas Emission Reductions. PLoS ONE, (submitted).
+Santos Da Silva SR, Miralles-Wilhelm F, Muñoz-Castillo R, Clarke LE, Braun CJ, Delgado A, et al. (2019) The Paris pledges and the energywater-land nexus in Latin America: Exploring implications of greenhouse gas emission reductions. PLoS ONE 14(4): e0215013. https://doi.org/10.1371/journal.pone.0215013
